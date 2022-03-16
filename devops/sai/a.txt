@@ -1,0 +1,14 @@
+this is an file which are going to use in GIT
+
+
+the file has been updated 
+
+<<<<<<< HEAD
+file uploding
+ geting the  values
+
+file the check the file which are created
+=======
+
+>>>>>>> c6c32bd... chagnes
+
